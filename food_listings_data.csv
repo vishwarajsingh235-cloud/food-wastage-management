@@ -1,0 +1,4 @@
+Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type
+501,Veg Biryani,20,2026-06-22,1,Restaurant,Mumbai,Vegetarian,Lunch
+502,Bread Packets,15,2026-06-25,2,Grocery Store,Delhi,Vegan,Breakfast
+503,Chicken Curry,10,2026-06-22,1,Restaurant,Mumbai,Non-Vegetarian,Dinner
